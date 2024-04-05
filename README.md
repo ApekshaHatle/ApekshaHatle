@@ -3,6 +3,8 @@
 <h3 align="center">A passionate programmer and always excited to learn new things!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apekshahatle&label=Profile%20views&color=0e75b6&style=flat" alt="apekshahatle" /> </p>
+
 - 🔭 I’m currently working on **a dynamic website deployed using AWS services**
 
 - 🌱 I’m currently learning **AWS Services, Frontend and DBMS**
