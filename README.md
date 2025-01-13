@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://rishavchanda.io)
 <h1 align="center">Hey, I'm Apeksha Hatle 😁</h1>
 <h3 align="center">A passionate programmer and always excited to learn new things!</h3>
 
